@@ -19,7 +19,7 @@ Celem programu jest humorystyczne zamykanie przeglądarki
 
 🐦 Autorzy
 
-- Grupa Mcrbocf — twórcy i żartownisie projektu.  
+- Grupa Mcrbocf — twórcy projektu.  
 
 ---
 
@@ -27,4 +27,5 @@ Celem programu jest humorystyczne zamykanie przeglądarki
 
 Projekt jest darmowy, edukacyjny i humorystyczny.  
 Nieodpłatnie do używania w celach prywatnych i edukacyjnych.
+Przy użyciu AntyPtoszka zaznacz Mcrbocf jako twórców.
 
