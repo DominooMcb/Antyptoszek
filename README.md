@@ -14,13 +14,6 @@ Celem programu jest humorystyczne zamykanie przeglądarki
 - W szczególności: nie jest związany ani nie obraża strony Ptoszek.pl.  
 - Wszystko jest w pełni humorystyczne i edukacyjne.  
 
-
----
-
-🐦 Autorzy
-
-- Grupa Mcrbocf — twórcy projektu.  
-
 ---
 
 📜 Licencja
