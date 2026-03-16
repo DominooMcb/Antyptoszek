@@ -12,7 +12,8 @@ Celem programu jest humorystyczne zamykanie przeglądarki
 
 - Projekt nie ma na celu urażenia żadnej strony internetowej, osoby ani instytucji.  
 - W szczególności: nie jest związany ani nie obraża strony Ptoszek.pl.  
-- Wszystko jest w pełni humorystyczne i edukacyjne.  
+- Wszystko jest w pełni humorystyczne i edukacyjne.
+- Projekt jest zrobiony częściowo przez AI ponieważ kiedy Antyptoszek był tworzony nie umiałem na tyle pythona.  
 
 ---
 
