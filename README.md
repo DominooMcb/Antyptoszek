@@ -21,5 +21,5 @@ Celem programu jest humorystyczne zamykanie przeglądarki
 
 Projekt jest darmowy, edukacyjny i humorystyczny.  
 Nieodpłatnie do używania w celach prywatnych i edukacyjnych.
-Przy użyciu AntyPtoszka zaznacz Mcrbocf jako twórców.
+Przy użyciu AntyPtoszka zaznacz twórców.
 
