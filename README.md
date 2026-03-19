@@ -30,6 +30,7 @@ Linki nie zawsze odzwierciedlają aktualne pliki exe z powodu aktualizacji.
 Edge: https://www.virustotal.com/gui/file/9c384f502d38fd1e380add38361455437049bed8a47c789ea5d3294df4815f49?nocache=1
 FireFox: https://www.virustotal.com/gui/file/f7f61280a6f4f1a47e823a3ab63c1b59bc579f3674056a3bdcefa05c13b6d32f?nocache=1
 GX/Opera: https://www.virustotal.com/gui/file/a5c590da04f19e6d2aaaa5a056312f147281f4088c2c1bb886be095e3786f220?noc
+Chrome: https://www.virustotal.com/gui/file/e418db4f0d8885aff7a54ea2c8c9d055b544eb66200a1e70f8dfc96305a89094?nocache=1
 
 
 
