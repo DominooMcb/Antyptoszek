@@ -32,5 +32,7 @@ FireFox: https://www.virustotal.com/gui/file/f7f61280a6f4f1a47e823a3ab63c1b59bc5
 GX/Opera: https://www.virustotal.com/gui/file/a5c590da04f19e6d2aaaa5a056312f147281f4088c2c1bb886be095e3786f220?noc
 Chrome: https://www.virustotal.com/gui/file/e418db4f0d8885aff7a54ea2c8c9d055b544eb66200a1e70f8dfc96305a89094?nocache=1
 
+Ważna uwaga: Antyptoszki .exe zostały usunięte ze względu na dużo pracy przy tworzeniu exe z py.
+
 
 
